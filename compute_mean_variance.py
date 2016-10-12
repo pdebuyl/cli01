@@ -17,4 +17,3 @@ while True:
 print("Given", len(data), "data points")
 print("The mean is              :", statistics.mean(data))
 print("The standard deviation is:", statistics.stdev(data))
-

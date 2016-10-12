@@ -14,4 +14,3 @@ x = 0
 for i in range(n_steps):
     x = x - 1 + 2*random.randrange(2)
     print(x)
-
