@@ -1,2 +1,5 @@
+_data
 *.o
 *.exe
+hello_args
+print_env_variable
