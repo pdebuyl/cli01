@@ -1,4 +1,4 @@
-all: hello_args
+all: hello_args print_env_variable
 
 CC=gcc
 CFLAGS=-std=c99 -Wall
